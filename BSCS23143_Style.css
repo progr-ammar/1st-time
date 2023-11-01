@@ -1,0 +1,98 @@
+.full-img {
+    max-width: 100%;
+    max-height: 100%;
+    width: 100%;
+}
+.check-products {
+    height: 300px;
+}
+body{
+    background-color: black;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.next-btn{
+    background-color: #8033ce;
+    color: white;
+    border: none;
+    padding: 10px;
+    margin-left: 20px;
+}
+.next-btn:hover {
+    background-color: #55039d;
+}
+.next-pg{
+    text-decoration: none;
+}
+.next-pg:hover{
+    color:white;
+}
+
+.nav {
+    background-color: black;
+    color: white;
+    margin-bottom: 5px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    text-align: center;
+}
+
+.name {
+    position: absolute;
+    top: 180px;
+    left: 38%;
+    color: white;
+    font-size: 50px;
+    
+}
+
+.center-btn {
+   position: absolute;
+   top: 90%;
+   left:44%;
+}
+
+.contact-details {
+    background-color: black;
+    color: white;
+    padding: 5px;
+    text-align: center;
+}
+
+.copyright{
+    background-color: black;
+    color: white;
+    padding: 5px;
+    text-align: center;
+}
+
+.i1{
+    height: 150px;
+}.i2{
+    height: 150px;
+}.i3{
+    height: 170px;
+}.i4{
+    height: 150px;
+}
+.product1{
+    color: white;
+}.product2{
+    color: white;
+}.product3{
+    color: white;
+}.product4{
+    color: white;
+}.product5{
+    color: white;
+}
+.contact{
+    color:white;
+}
+.insta{
+    height:200px;
+}
